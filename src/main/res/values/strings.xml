@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Dicee</string>
+    <string name="hit_button_text">Player Hit</string>
+    <string name="double_button_text">Double</string>
+    <string name="stand_button_text">Stand</string>
+    <string name="dealer_play_button_text">Dealer Hit</string>
+    <string name="dealer_score_text">Dealer: $1000</string>
+    <string name="player_score_text">User: $1000</string>
+    <string name="current_turn_text">Press \"Hit\" to begin</string>
+    <string name="bet_text">Bet: </string>
+    <string name="preset_bet">100</string>
+    <string name="quit_button_text">Leave</string>
+</resources>
